@@ -1,0 +1,5 @@
+<resources>
+    <string name="perm_group_label">Interfaccia a tema</string>
+    <string name="perm_group_desc">Consente l\'accesso al servizio d\'interfaccia a tema</string>
+    <string name="perm_access_label">Accesso interfaccia a tema</string>
+</resources>
